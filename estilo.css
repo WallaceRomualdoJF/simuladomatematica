@@ -1,0 +1,19 @@
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#geral{
+	width: 100%;
+	height: 619px;
+	margin: 0px;
+	
+}
+
+#cabecalho{
+	background-color: #0c0c0c;
+	text-align: center;
+	color: white;
+}
